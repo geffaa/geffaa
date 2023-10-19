@@ -27,4 +27,5 @@ I'm a Software Engineering student at Universitas Gadjah Mada, passionate about 
 ---
 [![](https://visitcount.itsvg.in/api?id=geffaa&icon=5&color=6)](https://visitcount.itsvg.in)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21armxyr2t2dv6gb7wix25xbq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21armxyr2t2dv6gb7wix25xbq&redirect=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
