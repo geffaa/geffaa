@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineering student at Universitas Gadjah Mada, passionate about software development. I have proficiency in several programming languages, including Java, Kotlin, and JavaScript. <br><br>⚡ Some Info About Me:<br><br>🌱 I'm currently learning and honing my skills in software development.<br>👯 I'm open to collaborations on projects related to software development.<br>💬 Feel free to ask me about Java, Kotlin, or Javascript.<br>📫 You can reach me via email at yodhimas02@gmail.com.<br>Thanks for visiting my GitHub profile! 😄
+I'm a Software Engineering student at Universitas Gadjah Mada, passionate about software development. I have proficiency in several programming languages, including React Js, Next Js, Laravel, Nuxt Js, Kotlin, and React Native . <br><br>⚡ Some Info About Me:<br><br>🌱 I'm currently learning and honing my skills in software development.<br>👯 I'm open to collaborations on projects related to software development.<br>.<br>📫 You can reach me via email at yodhimas02@gmail.com.<br>Thanks for visiting my GitHub profile! 😄
 
 
 ## 🌐 Socials:
