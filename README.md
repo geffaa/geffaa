@@ -34,7 +34,7 @@ MySQL, PostgreSQL, MongoDB, Elasticsearch, Firebase, Supabase
 Ethereum, Solidity, Hardhat, Ethers.js, Sui Move, Smart Contracts, NFT, IPFS / Pinata
 
 **Cloud & Infrastructure**
-Microsoft Azure, Google Cloud Platform, Docker
+Microsoft Azure, Google Cloud Platform, AWS, Docker
 
 **Tools**
 Git, GitHub, Linux, Postman, Swagger, Figma, Prisma ORM, Hangfire
